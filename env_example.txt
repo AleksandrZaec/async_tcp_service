@@ -1,0 +1,5 @@
+POSTGRES_DB='Название базы данных'
+POSTGRES_USER='Пользователь базы данных'
+POSTGRES_PASSWORD='Пароль пользователя базы данных'
+POSTGRES_HOST='Хост базы данных'
+POSTGRES_PORT='Порт базы данных'
